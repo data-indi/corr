@@ -1,4 +1,4 @@
-### **Consortium for Reliability and Reproducibility (CoRR) initiative – Hangzhou Normal University (HNU)**
+# **Consortium for Reliability and Reproducibility (CoRR) initiative – Hangzhou Normal University (HNU)**
 
 **One-Month Test-Retest Reliability and Dynamical Resting-State Study**
 

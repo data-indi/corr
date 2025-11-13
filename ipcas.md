@@ -1,4 +1,4 @@
-### **Consortium for Reliability and Reproducibility (CoRR) initiative – Institute of Psychology, Chinese Academy of Sciences (IPCAS)**
+# **Consortium for Reliability and Reproducibility (CoRR) initiative – Institute of Psychology, Chinese Academy of Sciences (IPCAS)**
 
 **Time Perception and Estimation Sample**
 
@@ -67,7 +67,6 @@ To download datasets from CoRR via NITRC:
 **DOI:** [10.15387/fcp\_indi.corr.ipcas1](http://dx.doi.org/10.15387/fcp_indi.corr.ipcas1)
 
 ---
-
 
 ## Release Link
 https://github.com/data-indi/corr/releases/tag/ipcas

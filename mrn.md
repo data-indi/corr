@@ -1,4 +1,4 @@
-### **Consortium for Reliability and Reproducibility (CoRR) initiative – Mind Research Network (MRN)**
+# **Consortium for Reliability and Reproducibility (CoRR) initiative – Mind Research Network (MRN)**
 
 **Repeat Resting-State fMRI Sample**
 
@@ -72,5 +72,6 @@ To download datasets from CoRR via NITRC:
 * MRN\_Phenotypic\_Data
 
 **DOI:** [10.15387/fcp\_indi.corr.mrn1](http://dx.doi.org/10.15387/fcp_indi.corr.mrn1)
+
 ## Release Link
 https://github.com/data-indi/corr/releases/tag/mrn

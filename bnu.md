@@ -1,4 +1,4 @@
-### Consortium for Reliability and Reproducibility (CoRR) initiative – Beijing Normal University (BNU)**
+# Consortium for Reliability and Reproducibility (CoRR) initiative – Beijing Normal University (BNU)**
 
 **License and Data Privacy**
 

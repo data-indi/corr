@@ -1,4 +1,4 @@
-### **Consortium for Reliability and Reproducibility (CoRR) initiative – Southwest University (SWU)**
+# **Consortium for Reliability and Reproducibility (CoRR) initiative – Southwest University (SWU)**
 
 **Training Effects in the Attentional Blink Task**
 

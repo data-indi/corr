@@ -1,4 +1,4 @@
-### **Consortium for Reliability and Reproducibility (CoRR) initiative – Xuanwu Hospital, Capital University of Medical Sciences (XHCUMS)**
+# **Consortium for Reliability and Reproducibility (CoRR) initiative – Xuanwu Hospital, Capital University of Medical Sciences (XHCUMS)**
 
 **6-Month Test-Retest in Adults: Control Group from a Stroke Study**
 

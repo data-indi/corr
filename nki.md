@@ -1,4 +1,4 @@
-### **Consortium for Reliability and Reproducibility (CoRR) initiative – Nathan Kline Institute (NKI)**
+# **Consortium for Reliability and Reproducibility (CoRR) initiative – Nathan Kline Institute (NKI)**
 
 **Test-Retest Multiband fMRI and DTI Dataset**
 
@@ -105,5 +105,6 @@ To download datasets from CoRR via NITRC:
 * NKI\_TRT\_Phenotypic\_Data
 
 **DOI:** [10.15387/fcp\_indi.corr.nki1](http://dx.doi.org/10.15387/fcp_indi.corr.nki1)
+
 ## Release Link
 https://github.com/data-indi/corr/releases/tag/nki
