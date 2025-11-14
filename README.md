@@ -1,4 +1,4 @@
-# Consortium for Reliability and Reproducibility (CoRR)
+# INDI Consortium for Reliability and Reproducibility (CoRR)
 
 The **Consortium for Reliability and Reproducibility (CoRR)** was created to provide an open-science resource for **test–retest reliability** and **reproducibility** studies in functional and structural connectomics.
 
