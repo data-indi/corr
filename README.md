@@ -1,40 +1,21 @@
-# INDI Consortium for Reliability and Reproducibility (CoRR)
+# International Neuroimaging Data-sharing Initiative (INDI)
 
-The **Consortium for Reliability and Reproducibility (CoRR)** was created to provide an open-science resource for **test–retest reliability** and **reproducibility** studies in functional and structural connectomics.
-
-This repository collects and documents CoRR test–retest datasets that have been mirrored and/or processed by the **Pittsburgh Fiber Data Hub**, with helper files to simplify downstream analysis.
-
-> Upstream data are shared via the **International Neuroimaging Data-sharing Initiative (INDI)** and the **1000 Functional Connectomes Project**.
+The **International Neuroimaging Data-sharing Initiative (INDI)** aims to advance discovery science in human brain function by promoting large-scale, open sharing of resting-state fMRI (R-fMRI) and phenotypic data. INDI builds on the success of the **1000 Functional Connectomes Project (FCP)**, which demonstrated the feasibility and impact of aggregating and openly releasing multi-site imaging datasets.
 
 ---
 
-## Goals of CoRR
+## Background
 
-CoRR was established to:
+The 1000 Functional Connectomes Project launched on **December 11, 2009**, aggregating and releasing over **1200 R-fMRI datasets** collected from **33 sites worldwide**. Released through NITRC, the dataset generated immediate and widespread engagement, including:
 
-1. **Establish test–retest reliability and reproducibility** for commonly used MR-based connectome metrics.
-2. **Characterize variability across sites and designs**, including differences in reliability across imaging centers, scanners, and retest intervals.
-3. **Provide benchmark datasets** for evaluating new metrics, preprocessing pipelines, and analysis methods.
+* **9000+ downloads** within 6 months
+* Access from **1,223 cities in 78 countries**
+* Coverage in *Nature Medicine*, *Nature Methods*, and the NIMH Director’s blog
+* The landmark feasibility paper (Biswal et al., 2010, PNAS), downloaded **1000+ times** in two weeks
 
-Because CoRR is primarily a **retrospective aggregation**, its **phenotypic key** emphasizes variables that are:
+The scientific impact was further demonstrated by rapid independent publications using the shared data (e.g., Tomasi & Volkow, 2010).
 
-* **Core:** minimal variables necessary to characterize any dataset (e.g., age, sex)
-* **Preferred:** recommended variables that are important and likely to be collected across sites
-* **Optional:** dataset-specific variables contributed by a subset of sites (e.g., task performance, specialized scales)
-
----
-
-## What this repository provides
-
-For each CoRR dataset mirrored under `data-indi/corr`, this repository aims to provide:
-
-* **Short dataset summaries** (site, design, sample size, modalities, DOI)
-* **Pointers to upstream downloads** (NITRC / INDI project pages)
-* **Helper artifacts** when available, such as:
-
-  * `participants.tsv`
-  * `qc.tsv`
-  * Tractography-ready files (`*.gqi.fz`, `*.qsdr.fz`, `*.sz`, `*.dti.dz`, `*.gqi.dz`)
+The response highlighted a clear need: **the neuroimaging community requires large, openly accessible datasets** to overcome barriers to statistical power, reproducibility, and cross-disciplinary involvement.
 
 All raw imaging data remain hosted by **INDI / NITRC** and are subject to the **INDI / CoRR Data Use Agreement**.
 
